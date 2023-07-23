@@ -1,4 +1,4 @@
-# Predicting Solar Power Generation and finding Anomalies
+# Predicting Solar Power Generation and Anomalies Detection
 ### Project Overview
 This project involved developing and evaluating machine learning models for detecting anomalies in solar photovoltaic (PV) systems using time series data. The goal was to identify the most effective model for accurately detecting abnormalities that could lead to power loss.
 
