@@ -59,7 +59,7 @@ Figure 2: Confusion matrix for LSTM anomaly detection.
 
 Figure 3: Anomalies detected by MLP + LSTM encoder model. True anomalies on June 7th and 14th were marked.
 
-<img src=![Screen Shot 2023-07-26 at 2 37 45 PM](https://github.com/shripalshaha1/Data_Mining_Project/assets/113332807/e45712c7-8d54-4c7c-8540-3e5d7d8790e3)
+![Screen Shot 2023-07-26 at 2 37 45 PM](https://github.com/shripalshaha1/Data_Mining_Project/assets/113332807/e45712c7-8d54-4c7c-8540-3e5d7d8790e3)
 
 Figure 4: Confusion matrix for MLP + LSTM encoder anomaly detection.
 
