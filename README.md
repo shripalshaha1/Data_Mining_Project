@@ -24,3 +24,8 @@ The following models were developed and their performance was compared:
   
 ### Conclusion
 The MLP model with LSTM encoder was most effective for anomaly detection in the PV system data. Future work could explore Gaussian methods and model optimization techniques like grid search.
+
+### Results
+
+![Screen Shot 2023-07-26 at 2 20 46 PM](https://github.com/shripalshaha1/Data_Mining_Project/assets/113332807/eed2028c-e2d5-4bf7-8200-f3bff67ef215)
+
