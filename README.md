@@ -32,7 +32,7 @@ The MLP model with LSTM encoder was most effective for anomaly detection in the 
 
 ### Anomalies detection by the Models
 
-### Regular LSTM Model
+#### Regular LSTM Model
 
 * The regular LSTM model successfully captured some true anomalies on June 7th and June 14th, as seen in the spikes in Figure 1.
 
@@ -48,7 +48,7 @@ Figure 1: Anomalies detected by regular LSTM model. Spikes on June 7th and 14th 
 
 Figure 2: Confusion matrix for LSTM anomaly detection.
 
-### MLP + LSTM Encoder Model
+#### MLP + LSTM Encoder Model
 
 * The MLP model with LSTM encoder accurately identified the true anomalies on June 7th and 14th, as highlighted in Figure 3.
 
@@ -64,7 +64,7 @@ Figure 3: Anomalies detected by MLP + LSTM encoder model. True anomalies on June
 
 Figure 4: Confusion matrix for MLP + LSTM encoder anomaly detection.
 
-### CNN-LSTM Model
+#### CNN-LSTM Model
 
 * The CNN-LSTM model successfully identified the two true anomaly dates of June 7th and 14th, as seen by the spikes in Figure 5.
 
@@ -80,7 +80,7 @@ Figure 5: Anomalies detected by CNN-LSTM model, with true anomalies marked.
 
 Figure 6: Confusion matrix for CNN-LSTM anomaly detection.
 
-### Transformer Model
+#### Transformer Model
 
 * The Transformer model detected the true anomaly dates of June 7th and 14th, as highlighted by the spikes in Figure 7.
 
