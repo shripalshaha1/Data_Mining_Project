@@ -1,9 +1,9 @@
 # Predicting Solar Power Generation and Anomalies Detection
 
 ## Table of Contents
-1. [Project Overview](https://github.com/shripalshaha1/Data_Mining_Project#project-overview)
+1. [Project Overview](Data_Mining_Project#project-overview)
 2. [Data](https://github.com/shripalshaha1/Data_Mining_Project#data)
-3. [Models Compared] (https://github.com/shripalshaha1/Data_Mining_Project#models-compared)
+3. [Models Compared](https://github.com/shripalshaha1/Data_Mining_Project#models-compared)
 4. [Key Results](https://github.com/shripalshaha1/Data_Mining_Project#key-results)
 5. [Conclusion](https://github.com/shripalshaha1/Data_Mining_Project#conclusion)
 6. [Results](https://github.com/shripalshaha1/Data_Mining_Project#results)
