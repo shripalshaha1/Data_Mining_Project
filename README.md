@@ -1,4 +1,14 @@
 # Predicting Solar Power Generation and Anomalies Detection
+
+## Table of Contents
+1. Project Overview
+2. Data
+3. Models Compared
+4. Key Results
+5. Conclusion
+6. Results
+7. Anomalies detection by the Models 
+
 ### Project Overview
 This project involved developing and evaluating machine learning models for detecting anomalies in solar photovoltaic (PV) systems using time series data. The goal was to identify the most effective model for accurately detecting abnormalities that could lead to power loss.
 
@@ -29,7 +39,7 @@ The MLP model with LSTM encoder was most effective for anomaly detection in the 
 
 ![Screen Shot 2023-07-26 at 2 20 46 PM](https://github.com/shripalshaha1/Data_Mining_Project/assets/113332807/eed2028c-e2d5-4bf7-8200-f3bff67ef215)
 
-## Anomalies detection by the Models
+### Anomalies detection by the Models
 
 ### Regular LSTM Model
 
